@@ -1,5 +1,6 @@
 # StockMarket-Sentiment-analysis-using-Tweets
-Problem Description:
+# Problem Description:
+
 A hedge fund uses 6 financial factors to predict the alpha signal in a stock. This alpha signal is used to make purchase decisions about the stock. The hedge fund now collected and tagged microblogging data for sentiment from the Social Media platform called ‘StockTwits’.
 StockTwits is used by people who regularly trade stocks. People on this platform tweet about stocks using the special character ‘$’ to indicate the name of the stock. These microblogs similar to tweets might contain important information about the alpha signal in a stock.
 The goal is to build a sentiment analysis model using the tagged data. This sentiment analysis model will then be used to generate a new stock factor which together with the other stock factors will be used to predict the Alpha Signal.
